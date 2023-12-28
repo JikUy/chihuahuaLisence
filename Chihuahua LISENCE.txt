@@ -1,0 +1,37 @@
+Chihuahua License
+December 2023
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Grant of Rights
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including, but not limited to, the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+
+2. Conditions
+
+A. Redistributions of the Software must retain the above copyright notice, this list of conditions, and the following disclaimer.
+B. Modified versions of the Software must indicate the modifications made and include prominent notices stating that the original Software has been altered.
+C. Any communication or product using the Software must acknowledge the contribution of the Software and include appropriate credits or citations.
+
+3. Disclaimer
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+4. Termination
+This license shall automatically terminate if you fail to comply with any of the terms or conditions described herein. Upon termination, your right to use, copy, distribute, or sublicense the Software shall cease immediately.
+
+5. Acknowledgment
+By using, reproducing, or distributing the Software, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions of this license.
+
+6. Limitations
+This license does not grant permission to use the names, trademarks, service marks, or logos of the authors or copyright holders without prior written consent.
+
+7. Indemnity
+You agree to indemnify and hold harmless the authors and copyright holders from any claims or liabilities, including attorney fees, arising out of your use, reproduction, modification, distribution, or sublicensing of the Software.
+
+8. Entire Agreement
+This license constitutes the entire agreement between the parties concerning the use, reproduction, and distribution of the Software and supersedes any prior agreements or understandings, whether written or oral.
+
+9. Miscellaneous
+All rights not expressly granted herein are reserved to the authors or copyright holders.
+
+Chihuahua Lisence,
+All rights to [your name]
